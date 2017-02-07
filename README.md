@@ -3,7 +3,7 @@
 
 ## Installation (Assuming OSX, and homebrew)
 1. Run the install script [scripts/install\_all.sh]
-2. Install GRUB [http://wiki.osdev.org/GRUB\_2#Installing\_GRUB\_2\_on\_OS\_X]
+2. Install GRUB [http://wiki.osdev.org/GRUB_2#Installing_GRUB_2_on_OS_X]
 3. Install qemu with homebrew
 4. Run ``make``
 5. Run ``make iso``
