@@ -1,0 +1,3 @@
+Build a dedicated Memcached server
+Execute lambdas in kernel (introduce safety issue)
+Imrpove upon EbbRT

@@ -14,3 +14,4 @@
 
 ## Notes
 Goal to add some basic libc functionality: [BitBucket link](https://bitbucket.org/pdclib/pdclib/src/95be959efe2ed2f36104ab5cffe9c222972d3e43/platform/posix/?at=default)
+Url to homebrew cross platform formula: [github](https://github.com/sevki/homebrew-gcc_cross_compilers)
